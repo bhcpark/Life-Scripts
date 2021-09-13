@@ -2,7 +2,7 @@
 
 This is a repository of scripts that make up my life. 
 
-## [kindleHtml2Md](/scripts/kindleHtml2Md.py)
+## [kindleHtml2Md](/lib/kindleHtml2Md.py)
 **Input**: Kindle app highlights/notes → email to self as Html → save to computer → run script → <br/>
 **Output**: formatted markdown file
 
