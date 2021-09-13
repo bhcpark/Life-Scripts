@@ -1,2 +1,4 @@
 *.obsidian
-_*
+*_includes
+*_layouts
+*_config.yaml
