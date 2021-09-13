@@ -1,7 +1,3 @@
----
-title: "AnesCurator"
----
-
 Curated anesthesia resources
 
 
@@ -103,10 +99,10 @@ Anesthesia is practiced in a silo. You don’t know if you’re the best residen
 ## Rotation Resources 
 
 ## Links
-	[AnesthesiaMadeEasy]
-	[AnesthesiaHub]
-	[AmandaXi]
-  [http://www.thesotos.net/anesthesia/]
+- [AnesthesiaMadeEasy]
+- [AnesthesiaHub]
+- [AmandaXi]
+- [http://www.thesotos.net/anesthesia/]
 
 [1]:https://www.reddit.com/r/anesthesiology/comments/98846z/ca1_guide
 [2]:https://www.reddit.com/r/anesthesiology/comments/g7o1g4/study_resources_during_residency/
