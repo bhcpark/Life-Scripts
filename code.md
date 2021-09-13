@@ -1,7 +1,5 @@
----
 date: "2021-08-10"
-title: Code
----
+
 
 Sharing snippets from mini-projects used to learn coding
 
