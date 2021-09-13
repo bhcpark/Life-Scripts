@@ -5,11 +5,11 @@ Input: Kindle app highlights/notes → email to self as Html → save to compute
 
 <div  align=center>
 Rendered HTML file:<br/>  
-<img src="https://github.com/bhcpark/Scripts/blob/main/media/highlight-html1.png" style="width: 50%; height: auto;">
+<img src="/media/highlight-html1.png" style="width: 50%; height: auto;">
   
 Raw HTML file:<br/>
-<img src="https://github.com/bhcpark/Scripts/blob/main/media/highlight-html2.png" style="width: 50%; height: auto;">
+<img src="/media/highlight-html2.png" style="width: 50%; height: auto;">
   
 Rendered Md file viewed in Preview mode of Obsidian:<br/>
-<img src="https://github.com/bhcpark/Scripts/blob/main/media/highlight-md.png" style="width: 50%; height: auto;">
+<img src="/media/highlight-md.png" style="width: 50%; height: auto;">
 </div>
