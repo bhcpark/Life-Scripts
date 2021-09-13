@@ -1,4 +1,6 @@
-# Scripts
+# Life Scripts
+
+This is a repository of scripts that make up my life. 
 
 ## [kindleHtml2Md](kindleHtml2Md.py)
 **Input**: Kindle app highlights/notes → email to self as Html → save to computer → run script → <br/>
