@@ -1,2 +1,6 @@
-theme: jekyll-theme-minimal
+name:
+description: Every Life Needs a Script
 ga: UA-204919085-1
+header_pages:
+  - about.md
+  - AnesCurator.md
