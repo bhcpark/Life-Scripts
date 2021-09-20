@@ -28,7 +28,7 @@ This is a repository of scripts that make up my life.
 **Output**: Renamed markdown files!<br/>
 <div align=center>
 <h3>Before</h3><br/>
-<img src="/media/filenames-before.png" style="width: 50%; height: auto;"><br/>
+<img src="/media/filenames-before.png" style="width: 50%; height: 50%;"><br/>
 <br/><br/>
 <h3>After</h3><br/>
-<img src="/media/filenames-after.png" style="width: 50%; height: auto;"><br/></div>
+<img src="/media/filenames-after.png" style="width: 50%; height: 50%;"><br/></div>
