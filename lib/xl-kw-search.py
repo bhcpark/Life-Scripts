@@ -1,8 +1,8 @@
 import pandas as pd
 import difflib
 
-file_path = r"D:\Users\Brian\Desktop\temp\kw.xlsx"
-index_path = r"D:\Dropbox\indices.xlsx"
+file_path = input("Path to spreadsheet ")
+index_path = input("Path to index spreadsheet ")
 df1 = pd.read_excel(file_path, sheet_name='Sheet1')
 df2 = pd.read_excel(index_path, sheet_name='Sheet1')
 # colm 'kw'
