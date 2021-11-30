@@ -1,6 +1,5 @@
 # Life Scripts
 
-This is a repository of scripts that make up my life. 
 
 ## Excel 
 9/2021
@@ -52,4 +51,3 @@ Get OneNote Page contents from specified...
   <h3>Rendered Md file viewed in Preview mode of Obsidian:</h3><br/>
 <img src="/media/highlight-md.png" style="width: 50%; height: auto;">
 </div>
-
