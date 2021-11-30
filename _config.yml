@@ -1,6 +1,7 @@
 remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-remote-theme
-title: Life Scripts
-description: This is a repository of scripts that make up my life.
+title: "Life Scripts"
+description: "This is a repository of scripts that make up my life."
 google_analytics: UA-204919085-1
+include: ["_pages"]
